@@ -23,6 +23,9 @@ Projeto de blog que filtra a partir dos continentes os lugares +100 para se conh
 
 Desenvolvido referente ao desafio - Desafio 01 - Interface com Chakra UI durante o treinamento Ignite - Rocketseat.
 
+
+Link do projeto online: https://worldtrip-lac.vercel.app/
+
 ## ❓ Como executar
 
 - Clone o repositório
@@ -39,5 +42,4 @@ Desenvolvido referente ao desafio - Desafio 01 - Interface com Chakra UI durante
 - Typescript
 - Unsplash
 
-PROJETO ONLINE: https://worldtrip-lac.vercel.app/
 
